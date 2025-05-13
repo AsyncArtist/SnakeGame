@@ -28,7 +28,7 @@ dotnet run
 - `Program.cs`: Contains the main entry point of the application.
 - `Snake.cs`: Handles the logic for the snake's movement and growth.
 - `ConsoleHelper.cs`: Provides utility functions for console operations.
-- `Enums.cs`: Defines enumerations used in the game.
+- `Enums.cs`: Describes the directions used in the game.
 
 ## Gameplay Instructions
 - Use the arrow keys to control the snake's direction.
